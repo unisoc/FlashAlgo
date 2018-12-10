@@ -160,3 +160,6 @@ projects:
     cc3220sf:
         - *module_tools
         - records/projects/ti/cc3220sf.yaml
+    rda5981:
+        - *module_tools
+        - records/projects/rda/rda5981.yaml
